@@ -1,4 +1,6 @@
 A random workout generator based on your split, available splits are Push/Pull/Legs/, Upper/lower.
+
+
 I only included good high tier workouts for that I took inspiration from jeff nippards workout tier list on youtube and some of my own preferences.
 
 The way it works is when you slect a certain split it will give you 2 exercises that are always there that i think essential then randomize the latter exercises,
